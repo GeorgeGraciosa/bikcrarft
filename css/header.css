@@ -1,0 +1,11 @@
+.header {
+  background: #000;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header a {
+  text-decoration: none;
+  color: #fff;
+  gap: 10px;
+}
