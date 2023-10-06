@@ -1,55 +1,37 @@
-.c12 {
-  color: #000000;
-}
-.c11 {
-  color: #111111;
-}
-.c10 {
-  color: #2e2e2e;
-}
-.c9 {
-  color: #404040;
-}
-.c8 {
-  color: #595959;
-}
-.c7 {
-  color: #707070;
-}
-.c6 {
-  color: #9c9c9c;
-}
-.c5 {
-  color: #b2b2b2;
-}
-.c4 {
-  color: #cccccc;
-}
-.c3 {
-  color: #dedede;
-}
-.c2 {
-  color: #ededed;
-}
-.c1 {
-  color: #f7f7f7;
-}
-.w {
-  color: #ffffff;
-}
+:root {
+  --cor-cinza-12: #000000;
 
-.p5{
-  color: #332200;
-}
-.p4{
-  color: #664400;
-}
-.p3{
-  color: #a66e00;
-}
-.p2{
-  color: #e4a30b;
-}
-.p1{
-  color: #ffbb00;
+  --cor-cinza-11: #111111;
+
+  --cor-cinza-10: #2e2e2e;
+
+  --cor-cinza-9: #404040;
+
+  --cor-cinza-8: #595959;
+
+  --cor-cinza-7: #707070;
+
+  --cor-cinza-6: #9c9c9c;
+
+  --cor-cinza-5: #b2b2b2;
+
+  --cor-cinza-4: #cccccc;
+
+  --cor-cinza-3: #dedede;
+
+  --cor-cinza-2: #ededed;
+
+  --cor-cinza-1: #f7f7f7;
+
+  --cor-branca: #ffffff;
+
+  --cor-primaria-5: #332200;
+
+  --cor-primaria-4: #664400;
+
+  --cor-primaria-3: #a66e00;
+
+  --cor-primaria-2: #e4a30b;
+
+  --cor-primaria-1: #ffbb00;
 }
