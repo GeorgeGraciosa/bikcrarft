@@ -7,10 +7,6 @@
   margin-bottom: 40px;
 }
 
-.bicicletas-lista h2 span {
-  color: var(--cor-primaria-1);
-}
-
 .bicicletas-lista ul {
   display: flex;
   gap: 40px;
@@ -37,7 +33,6 @@
   margin-bottom: 8px;
   display: flex;
   align-items: center;
-  color: var(--cor-cinza-12);
 }
 
 .bicicletas-lista h3::before {
@@ -56,7 +51,6 @@
 
 .bicicletas-lista li span {
   padding-left: 20px;
-  color: var(--cor-cinza-8);
 }
 
 @media (max-width: 800px) {

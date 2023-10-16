@@ -4,7 +4,6 @@
 }
 
 .introducao {
-  color: var(--cor-branca);
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 0px 40px;
@@ -21,11 +20,6 @@
 
 .introducao p {
   margin-bottom: 20px;
-  color: var(--cor-cinza-5);
-}
-
-.introducao span {
-  color: var(--cor-primaria-1);
 }
 
 .introducao img {
