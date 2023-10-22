@@ -42,18 +42,14 @@
   margin-bottom: 32px;
 }
 
-.seguros-item a {
-  grid-column: 1/-1;
-}
-
-.seguros-item li + li {
-  margin-top: 20px;
-}
-
 .seguros-item li {
   display: flex;
   align-items: center;
   position: relative;
+}
+
+.seguros-item li + li {
+  margin-top: 20px;
 }
 
 .seguros-item li::before {
@@ -64,6 +60,10 @@
   background-image: url("../../img/icones/lista.svg");
   position: absolute;
   left: -21px;
+}
+
+.seguros-item a {
+  grid-column: 1/-1;
 }
 
 @media (max-width: 800px) {
